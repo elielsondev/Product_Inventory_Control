@@ -6,9 +6,9 @@ Ele fornece uma interface interativa para gerenciar o inventário, permitindo qu
 
 ## Principais Funcionalidades
 
-Menu interativo com prompt de comando
-Registro de novos produtos
-Listagem de todos os produtos cadastrados
+- Menu interativo com prompt de comando
+- Registro de novos produtos
+- Listagem de todos os produtos cadastrados
 
 
 ## Stack Tecnológica
